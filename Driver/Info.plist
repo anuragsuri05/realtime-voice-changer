@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>VoiceShiftVirtualMic</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.voiceshift.driver.VirtualMic</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>VoiceShiftVirtualMic</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>11.0</string>
+	<key>CFPlugInFactories</key>
+	<dict>
+		<key>6C1E3F0A-5B7D-4E2A-9C1D-7A8B9C0D1E2F</key>
+		<string>VoiceShift_Create</string>
+	</dict>
+	<key>CFPlugInTypes</key>
+	<dict>
+		<key>443ABAB8-E7B3-491A-B985-BEB9187030DB</key>
+		<array>
+			<string>6C1E3F0A-5B7D-4E2A-9C1D-7A8B9C0D1E2F</string>
+		</array>
+	</dict>
+</dict>
+</plist>
